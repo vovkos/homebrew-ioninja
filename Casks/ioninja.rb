@@ -10,7 +10,7 @@ cask 'ioninja' do
 
   depends_on macos: '>= :sierra'
 
-  app 'IO Ninja.app'
+  app "ioninja-#{version}-mac/IO Ninja.app"
   binary "#{appdir}/IO Ninja.app/Contents/MacOS/ioninja"
 
   zap trash: [
