@@ -4,7 +4,7 @@ cask 'ioninja' do
 
   url "https://tibbo.com/downloads/archive/ioninja/ioninja-#{version}/ioninja-#{version}-mac.tar.xz"
   name 'IO Ninja'
-  homepage 'https://ioninja.com'
+  homepage 'https://ioninja.com/'
 
   auto_updates true
 
