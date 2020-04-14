@@ -1,6 +1,6 @@
 cask 'ioninja' do
-  version '3.14.0'
-  sha256 '41bc5930ba748cb23107af6d770f307befe2e80e36b4a56b06b364eceb76ddab'
+  version '3.14.1'
+  sha256 '83ca72b94049c763c082b690c7bb41dbe5d1bf40dc053f5424ec67c8b4cb0f1c'
 
   url "https://tibbo.com/downloads/archive/ioninja/ioninja-#{version}/ioninja-#{version}-mac.tar.xz"
   name 'IO Ninja'
