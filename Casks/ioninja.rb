@@ -6,14 +6,15 @@ cask "ioninja" do
   url "https://tibbo.com/downloads/archive/ioninja/ioninja-#{version}/ioninja-#{version}-a-mac.tar.xz"
   name "IO Ninja"
   homepage "https://ioninja.com/"
-  auto_updates true
 
-  depends_on macos: ">= :sierra"
+  auto_updates true
+  depends_on macos => ">= :sierra"
+
   app "ioninja-#{version}-a-mac/IO Ninja.app"
 
   # binary "#{appdir}/IO Ninja.app/Contents/MacOS/ioninja"
 
-  zap trash: [
+  zap trash => [
     "~/.ioninja",
     "~/Library/Caches/com.tibbo.ioninja",
     "~/Library/Preferences/com.tibbo.ioninja.plist",
