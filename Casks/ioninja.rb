@@ -5,7 +5,7 @@ cask "ioninja" do
   # tibbo.com was verified as official when first introduced to the cask
   url "https://tibbo.com/downloads/archive/ioninja/ioninja-#{version}/ioninja-#{version}-mac.tar.xz"
   name "IO Ninja"
-  desc "Professional, scriptable, all-in-one termina/sniffer"
+  desc "Professional, scriptable, all-in-one terminal/sniffer"
   homepage "https://ioninja.com/"
 
   auto_updates true
