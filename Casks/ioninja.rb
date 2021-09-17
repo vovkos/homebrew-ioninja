@@ -3,7 +3,7 @@ cask "ioninja" do
   sha256 "87cfff01c9bab335f5ff6ed21495bdf3fac726104fa903a3bd69a9e69f934a9d"
 
   url "https://tibbo.com/downloads/archive/ioninja/ioninja-#{version}/ioninja-#{version}-mac.tar.xz",
-    verified: "https://tibbo.com/downloads/archive/ioninja"
+      verified: "https://tibbo.com/downloads/archive/ioninja"
   name "IO Ninja"
   desc "Professional, scriptable, all-in-one terminal/sniffer"
   homepage "https://ioninja.com/"
