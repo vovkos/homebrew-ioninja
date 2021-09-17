@@ -1,6 +1,6 @@
 # Homebrew Tap for IO Ninja
 
-![brew test-bot](https://github.com/vovkos/homebrew-ioninja/workflows/brew%20test-bot/badge.svg)
+[![brew test-bot](https://github.com/vovkos/homebrew-ioninja/workflows/brew%20test-bot/badge.svg)](https://github.com/vovkos/homebrew-ioninja/actions/workflows/main.yml)
 
 ## Abstract
 
