@@ -1,6 +1,6 @@
 cask "ioninja" do
-  version "5.5.0"
-  sha256 "f28c6463aa7bcfb4e4513427acd92a736bd593e08b4aa8b7114548c3b521f448"
+  version "5.5.1"
+  sha256 "f1e35d8aa2e3f6396ecb967c2e097339cf720443b52ea92269d195564fcaadd5"
 
   url "https://tibbo.com/downloads/archive/ioninja/ioninja-#{version}/ioninja-#{version}-mac-amd64.tar.xz",
       verified: "https://tibbo.com/downloads/archive/ioninja"
