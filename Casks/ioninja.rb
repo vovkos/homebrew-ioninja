@@ -1,6 +1,6 @@
 cask "ioninja" do
-  version "5.9.0"
-  sha256 "70528458a615729e3079e9dc1538d6cf246421854c74a51e625a67bf31d21912"
+  version "5.9.1"
+  sha256 "5b73a7dcdb45e1c6638163e11f884cde7124b86cfdf5e4f34a12e4ee1edd33c3"
 
   url "https://ioninja.com/downloads/archive/ioninja/ioninja-#{version}/ioninja-#{version}-mac-amd64.tar.xz",
       verified: "https://ioninja.com/downloads/archive/ioninja"
