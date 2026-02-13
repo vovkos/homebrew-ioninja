@@ -1,6 +1,6 @@
 cask "ioninja" do
-  version "5.9.1"
-  sha256 "5b73a7dcdb45e1c6638163e11f884cde7124b86cfdf5e4f34a12e4ee1edd33c3"
+  version "5.10.0"
+  sha256 "0645aba487c11b86b863871cf25522306e9e8ecca120b73d49352737fedec063"
 
   url "https://ioninja.com/downloads/archive/ioninja/ioninja-#{version}/ioninja-#{version}-mac-amd64.tar.xz"
   name "IO Ninja"
