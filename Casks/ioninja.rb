@@ -3,10 +3,8 @@ cask "ioninja" do
        arm:   "arm64"
 
   version "5.10.2"
-
   sha256 intel: "5c5241bee10c694e5ae49f3b005b771ea4d62845d5c67871495a7dc0152ad159",
          arm:   "4f19305b3e38f2164f23d864fdd2ee704b182707032f8b421429928905f65d66"
-
 
   url "https://ioninja.com/downloads/archive/ioninja/ioninja-#{version}/ioninja-#{version}-mac-#{arch}.tar.xz"
   name "IO Ninja"
